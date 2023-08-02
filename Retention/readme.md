@@ -1,6 +1,6 @@
 # Retention
 
-Задачи
+### Задачи
 
 1. Проанализировать retention для органического и рекламного трафика6 сравнить и сделать вывод о качстве рекламного трафика.
 * [дашборд в Superset](https://github.com/AlinaEvgenevna/AppAnalytics/blob/main/Retention/ads_vs_organic.jpg)
