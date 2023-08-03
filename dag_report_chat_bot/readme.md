@@ -1,4 +1,4 @@
-# Автоматическая рассылка ежедневного мини-отчета с помощью бота в телеграмм
+# Автоматическая рассылка ежедневного мини-отчета с помощью бота в телеграм
 
 ### Инструменты
 
@@ -14,7 +14,7 @@ Python, Airflow, bot Telegram
 
 ### Файлы
 
-1. Черновик отчета (личные данные скрыты)
-2. Файл .py. для дага Airflow (личные данные скрыты)
-3. Скрин сообщения от бота
+1. [Черновик отчета (личные данные скрыты)](https://github.com/AlinaEvgenevna/AppAnalytics/blob/main/dag_report_chat_bot/report_draft.ipynb)
+2. [Файл .py. для дага Airflow (личные данные скрыты)](https://github.com/AlinaEvgenevna/AppAnalytics/blob/main/dag_report_chat_bot/dag_report.py)
+3. [Скрин сообщения от бота](https://github.com/AlinaEvgenevna/AppAnalytics/blob/main/dag_report_chat_bot/bot_message.jpeg)
 
