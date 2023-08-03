@@ -15,3 +15,8 @@
 
 NB Это копия рабочего файла .py, данные для connection скрыты.
 
+
+### Инструменты
+
+Python, git, Airflow, ClickHouse
+
