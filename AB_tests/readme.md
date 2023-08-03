@@ -20,8 +20,8 @@
    * непараметрический пуассоновский бутстреп
    * Бакетное преобразование, а потом - t-test и манн-уитни
 3.  [Тесты на линеризированной метрики (чтобы увеличить чувствительность нашей метрики)](https://github.com/AlinaEvgenevna/AppAnalytics/blob/main/AB_tests/linearized_likes.ipynb)
-
-
+4*. [Этап подготовки. Разделение на группы (хэширование с солью)](https://github.com/AlinaEvgenevna/AppAnalytics/blob/main/AB_tests/split_groups.ipynb)
+ 
 ### Инструменты
 
 Python, scipy ttest_ind, mannwhitneyu, poisson
