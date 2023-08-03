@@ -25,10 +25,10 @@ default_args = {
 # Интервал запуска DAG
 schedule_interval = '0 11 * * *'
 
-connection = {'host': 'https://clickhouse.lab.karpov.courses',
-                      'database':'simulator_20230620',
-                      'user':'student', 
-                      'password':'dpo_python_2020'
+connection = {'host': '***',
+                      '***',
+                      '***, 
+                      '***'
                      }
 
 #dag
@@ -160,9 +160,9 @@ def dag_report():
     @task
     def send_report(message, plot_object):
     
-        my_token = '6396826757:AAFNxdR3RKdRNcHqEtBn3LkhgvDObLeMmU4' 
+        my_token = '***' 
         bot = telegram.Bot(token=my_token) 
-        chat_id = 963732064
+        chat_id = ***
 
         bot.sendMessage(chat_id=chat_id, text=message)
         bot.sendPhoto(chat_id=chat_id, photo=plot_object)
