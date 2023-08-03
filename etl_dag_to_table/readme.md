@@ -13,7 +13,15 @@
 
 * Для каждого среза - указаны основные метрики (просмотры, лайки, отправленные cобщения, полученные сообщения).
 
-NB Это копия рабочего файла .py, данные для connection скрыты.
+## Файлы
+
+1. [Файл с кодом](https://github.com/AlinaEvgenevna/AppAnalytics/blob/main/etl_dag_to_table/etl_dag_to_table.py)
+   NB Это копия рабочего файла .py, данные для connection скрыты.
+   
+3. [Скрин dag tree](https://github.com/AlinaEvgenevna/AppAnalytics/blob/main/etl_dag_to_table/dag_tree.png)
+4. [Скрин dag graph](https://github.com/AlinaEvgenevna/AppAnalytics/blob/main/etl_dag_to_table/dag_graph.png)
+
+
 
 
 ### Инструменты
