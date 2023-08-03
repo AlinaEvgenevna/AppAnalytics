@@ -4,7 +4,7 @@
 
 Python, Airflow, bot Telegram
 
-В телеграмм чат
+В телеграм чат
 
 
 ### Что в отчете
