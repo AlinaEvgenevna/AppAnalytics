@@ -13,17 +13,17 @@ from airflow.operators.python import get_current_context
 
 
 connection_from = {
-    'host': 'https://clickhouse.lab.karpov.courses',
-    'password': 'dpo_python_2020',
-    'user': 'student',
-    'database': 'simulator_20230620'
+    'host': '***',
+    'password': '***',
+    'user': '***',
+    'database': '***'
 }
 
 
-connection_to = {'host': 'https://clickhouse.lab.karpov.courses',
-                      'database':'test',
-                      'user':'student-rw', 
-                      'password':'656e2b0c9c' 
+connection_to = {'host': '***',
+                      'database':'***',
+                      'user':'***', 
+                      'password':'***' 
 }
 
 
