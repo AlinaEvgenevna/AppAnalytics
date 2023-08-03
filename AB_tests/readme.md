@@ -12,19 +12,19 @@
 
 ### Дизайн тестирования
 
-1. Проведение A/A теста, чтобы оценить сплитование и методологию теста.
-2. Разные вариации A/B тестов:
+1. [Проведение A/A теста, чтобы оценить сплитование и методологию теста](https://github.com/AlinaEvgenevna/AppAnalytics/blob/main/AB_tests/AA_test.ipynb).
+2. [Разные вариации A/B тестов:](https://github.com/AlinaEvgenevna/AppAnalytics/blob/main/AB_tests/AB_test.ipynb)
    * t-test
    * тест Манна-Уитни
    * t-тест на сглаженном CTR
    * непараметрический пуассоновский бутстреп
    * Бакетное преобразование, а потом - t-test и манн-уитни
-3.  Тесты на линеризированной метрики (чтобы увеличить чувствительность нашей метрики)
+3.  [Тесты на линеризированной метрики (чтобы увеличить чувствительность нашей метрики)](https://github.com/AlinaEvgenevna/AppAnalytics/blob/main/AB_tests/linearized_likes.ipynb)
 
 
 ### Инструменты
 
-Python, scipy ttest_ind
+Python, scipy ttest_ind, mannwhitneyu, poisson
 
 ### Выводы
 
